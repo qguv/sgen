@@ -2,7 +2,11 @@
 
 _Generate startups_
 
+    # run it in the terminal
     python3 sgen.py
+    
+    # or run a tiny webapp
+    python3 app.py
 
 ## Sample output
 
