@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-SOURCE_FILES_PATH = r'S:\File-Exchange\IS\QG\projects\sgen'
 COMMENT_INDICATOR = '#'
 
+import os
 from pathlib import Path
 from random import choice, random
 
@@ -15,7 +15,7 @@ def read_real_lines(fp: Path) -> [str]:
         real_lines = filter(is_real_line, all_lines)
         return list(real_lines)
 
-sources = Path(SOURCE_FILES_PATH)
+sources = Path(os.path.dirname(os.path.realpath(__file__)))
 
 domains        = read_real_lines(sources / 'domains.txt')
 past_projects  = read_real_lines(sources / 'past_projects.txt')
@@ -42,4 +42,4 @@ if __name__ == "__main__":
             print(generate_startup(), end='')
             input()
     except:
-        pass
+        print()
