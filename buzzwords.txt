@@ -1,0 +1,10 @@
+# The Startup Generator
+# Buzzword prefixes for the "Uber for cats" pattern
+# Add the indefinite article before each item
+# Blank lines and lines beginning with a hash are ignored.
+
+a crowd-sourced
+a monetized
+an open-source
+a scalable
+a freemium

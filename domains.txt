@@ -1,0 +1,90 @@
+# The Startup Generator
+# Business domains
+# Blank lines and lines beginning with a hash are ignored.
+
+# x reform
+education reform
+environmental policy reform
+tort reform
+
+# academia
+computational linguistics
+literary criticism
+circuit analysis
+game theory
+trickle-down economics
+
+# sociology & psychology
+third-wave feminism
+object permanence
+heteronormativity
+cultural appropriation
+identity politics
+
+# sports
+e-sports
+tee-ball
+little-league football
+
+# legal, diplomacy, bureaucracy, business
+maritime law
+nuclear non-proliferation
+international politics
+census data
+government transparency
+case law
+logistics management
+2-party politics
+fixed-rate mortgages
+collective bargaining
+wage garnishment
+the municipal bond market
+
+# business
+
+# applied science
+traffic engineering
+bioinformatics
+food microbiology
+cryogenics
+
+# health & wellness
+clinical psychology
+exploratory surgery
+oral surgery
+physical therapy
+relationship counseling
+pharmaceutical testing
+
+# art & metaphysics
+art history
+aesthetic theory
+epistemology
+metaphysics
+performance art
+neoclassical architecture
+existentialism
+
+# negative affect
+money laundering
+opiod addiction
+historical revisionism
+tax evasion
+doomsday preparation
+predatory lending
+organ harvesting
+
+# computer & internet
+system administration
+cat pictures
+information security
+microblogging
+cryptocurrency
+
+# blue-collar occupations
+lawn care
+landscaping
+
+# ???
+Civil War reenactment
+

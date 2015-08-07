@@ -1,0 +1,41 @@
+# The Startup Generator
+# Names of existing/former projects
+# Blank lines and lines beginning with a hash are ignored.
+
+Kazaa
+Limewire
+Napster
+chess.com
+Snapchat
+Yo!
+Friendster
+Instagram
+LinkedIn
+eHarmony
+Google Plus
+Myspace
+Blockbuster
+Vine
+Tinder
+Grindr
+Picasa
+Foursquare
+Urbanspoon
+MapQuest
+Shazam
+FriendFeed
+WhatsApp
+WinZip
+WebMD
+ChristianMingle
+FarmersOnly
+OK Cupid
+Pintrest
+Etsy
+Club Penguin
+WikiHow
+Github
+Runescape
+Uber
+Rails
+Dogecoin
