@@ -12,6 +12,8 @@ _Generate startups_
     vim credentials.py
     while true; do; python3 twitter_bot.py; sleep 360; done
 
+To use the systemd user timer for the twitter bot, change the script path in the `sgen_bot.service` to wherever you keep system scripts.
+
 ## Sample output
 
     Startup idea: the Foursquare of organ harvesting
