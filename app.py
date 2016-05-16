@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
+from sgen import generate_startup
 from flask import Flask, render_template
 app = Flask('sgen')
-
-from sgen import domains, past_projects
-from random import choice
 
 @app.route('/')
 def index():
