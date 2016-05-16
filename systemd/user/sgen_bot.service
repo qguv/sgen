@@ -1,0 +1,10 @@
+[Unit]
+Description=sgen Twitter bot
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /home/qguv/dev/sgen/twitter_bot.py
+
+[Install]
+WantedBy=default.target

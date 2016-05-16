@@ -1,0 +1,8 @@
+[Unit]
+Description=Tweet a new startup to @sgen_startups every hour
+
+[Timer]
+OnCalendar=*:03:14
+
+[Install]
+WantedBy=timers.target

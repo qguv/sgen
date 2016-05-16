@@ -8,6 +8,10 @@ _Generate startups_
     # or run a tiny webapp
     python3 app.py
 
+    # or run the twitter bot
+    vim credentials.py
+    while true; do; python3 twitter_bot.py; sleep 360; done
+
 ## Sample output
 
     Startup idea: the Foursquare of organ harvesting
