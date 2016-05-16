@@ -16,6 +16,8 @@ developers
 startups
 mailing list bullies
 Bitcoin enthusiasts
+IRC bots
+startup evangelists
 
 # hyper-specific age groups
 tweens
@@ -30,6 +32,16 @@ motorcyclists
 reasonable folk
 minivan-drivers
 carpoolers
+
+# the silly upper class
+penpals
+the enlightened
+the bourgeoisie
+nouveau-riche
+
+# the silly lower class
+the unemployed
+the "urban market"
 
 # (e-) sports
 sports fans
@@ -49,11 +61,23 @@ Kanye West fans
 bullies
 drunk fratboys
 cagers
+right-wing fanatics
+Ayn Rand fanatics
+fascists
+communists
+people who just read "The Communist Manifesto" for the first time
+people who just read Nietzsche for the first time
+self-proclaimed anarcho-capitalists
+preteen anarchists
 
 # format puns
 dummies
 
-# sad old people
+# family
+your drunk uncle
+your absent father
+
+# old people
 the elderly
 people who still use hotmail
 people who still use AOL
@@ -61,4 +85,4 @@ people who still pay with checks
 kids who won't stay off my lawn
 people who don't understand the internet
 hunt-and-peck typists
-
+strangely attractive old people
