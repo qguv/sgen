@@ -16,7 +16,9 @@ except Exception as e:
     exit(1)
 
 try:
-    bot.update_status(status=generate_startup())
+    status = generate_startup()
+    bot.update_status(status=status)
+    print('Successfully tweeted "{}".'.format(status))
 except Exception as e:
     print("Tweet failed!", e)
     exit(2)
