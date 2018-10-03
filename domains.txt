@@ -6,6 +6,7 @@
 education reform
 environmental policy reform
 tort reform
+econmic reform
 
 # academia
 computational linguistics
@@ -25,8 +26,10 @@ identity politics
 e-sports
 tee-ball
 little-league football
+baseball
 soccer
 football
+college football
 
 
 # legal, diplomacy, bureaucracy, business
@@ -44,18 +47,11 @@ wage garnishment
 the municipal bond market
 
 # business
-project management
-operations management
-workforce management
-quality assurance
-training
-information technology
-marketing
-fraud / compliance
 
 # applied science
 traffic engineering
 bioinformatics
+data analytics
 food microbiology
 cryogenics
 
@@ -63,6 +59,7 @@ cryogenics
 clinical psychology
 exploratory surgery
 oral surgery
+biopsy 
 physical therapy
 relationship counseling
 pharmaceutical testing
@@ -90,15 +87,19 @@ system administration
 cat pictures
 information security
 microblogging
+network administration
+cluster computing
+subnetting
+ethernet
+infiniband
+high performance computing
+programming
+server
 cryptocurrency
-web development
 
 # blue-collar occupations
 lawn care
 landscaping
-mechanics
-bus drivers
-electricians
 
 # ???
 Civil War reenactment
