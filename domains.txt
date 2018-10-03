@@ -6,6 +6,7 @@
 education reform
 environmental policy reform
 tort reform
+economic reform
 tax reform
 
 # academia
@@ -29,6 +30,8 @@ tee-ball
 little-league football
 baseball
 soccer
+football
+college football
 basketball
 tennis
 hockey
@@ -62,6 +65,7 @@ compliance testing
 # applied science
 traffic engineering
 bioinformatics
+data analytics
 food microbiology
 cryogenics
 spaceflight
@@ -70,6 +74,7 @@ spaceflight
 clinical psychology
 exploratory surgery
 oral surgery
+biopsy 
 physical therapy
 relationship counseling
 pharmaceutical testing
@@ -100,6 +105,14 @@ system administration
 cat pictures
 information security
 microblogging
+network administration
+cluster computing
+subnetting
+ethernet
+infiniband
+high performance computing
+programming
+server
 cryptocurrency
 javascript
 quantum computing
@@ -110,9 +123,6 @@ web development
 lawn care
 landscaping
 construction
-mechanics
-bus drivers
-electricians
 mechanical service
 bus service
 electrical service
