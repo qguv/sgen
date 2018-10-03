@@ -27,6 +27,8 @@ tee-ball
 little-league football
 soccer
 football
+jai alai
+
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -50,8 +52,7 @@ quality assurance
 training
 information technology
 marketing
-securities fraud
-compliance testing
+fraud / compliance
 
 # applied science
 traffic engineering
@@ -66,6 +67,7 @@ oral surgery
 physical therapy
 relationship counseling
 pharmaceutical testing
+laser eye surgery
 
 # art & metaphysics
 art history
@@ -84,6 +86,7 @@ tax evasion
 doomsday preparation
 predatory lending
 organ harvesting
+human trafficking
 
 # computer & internet
 system administration
@@ -92,14 +95,18 @@ information security
 microblogging
 cryptocurrency
 web development
+team collaboration tools
 
 # blue-collar occupations
 lawn care
 landscaping
-mechanical service
-bus service
-electrical service
+mechanics
+bus drivers
+electricians
+carpentry
 
 # ???
 Civil War reenactment
+Goetia
+
 
