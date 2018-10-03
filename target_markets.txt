@@ -6,6 +6,8 @@
 # animals
 cats
 dogs
+pigs
+monkeys
 
 # nerds
 the technically competent
@@ -76,6 +78,8 @@ dummies
 # family
 your drunk uncle
 your absent father
+your hardworking cousin
+your busy mother-in-law
 
 # old people
 the elderly
