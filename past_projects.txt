@@ -30,7 +30,7 @@ WebMD
 ChristianMingle
 FarmersOnly
 OK Cupid
-Pintrest
+Pinterest
 Etsy
 Club Penguin
 WikiHow
@@ -39,3 +39,8 @@ Runescape
 Uber
 Rails
 Dogecoin
+Xanga
+ICQ
+Winamp
+Limewire
+AOL
