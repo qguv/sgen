@@ -39,11 +39,13 @@ Runescape
 Uber
 Rails
 Dogecoin
+Facebook
+Tesla
+Yelp
+Slack
 Bumble
 Paypal
-Facebook
 Telegram
-Slack
 Skype
 Dropbox
 Grammarly

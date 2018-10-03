@@ -20,6 +20,7 @@ developers
 startups
 mailing list bullies
 Bitcoin enthusiasts
+crypto enthusiasts
 IRC bots
 startup evangelists
 
@@ -90,6 +91,7 @@ the elderly
 people who still use hotmail
 people who still use AOL
 people who still pay with checks
+people who still use ISP provided email
 kids who won't stay off my lawn
 people who don't understand the internet
 hunt-and-peck typists
