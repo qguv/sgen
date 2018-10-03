@@ -54,7 +54,7 @@ athletes
 e-sports spectators
 e-sports "athletes"
 
-# unlikeable
+# ideological groups
 self-righteous vegans
 crossfit junkies
 the cast of Jersey Shore
@@ -73,10 +73,9 @@ communists
 people who just read "The Communist Manifesto" for the first time
 people who just read Nietzsche for the first time
 self-proclaimed anarcho-capitalists
-preteen anarchists
+anarchists
 capitalists
 hipsters
-
 
 # format puns
 dummies
@@ -87,7 +86,7 @@ your absent father
 your hardworking cousin
 your busy mother-in-law
 
-# old people
+# old folks
 the elderly
 people who still use hotmail
 people who still use AOL

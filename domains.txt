@@ -55,7 +55,8 @@ quality assurance
 training
 information technology
 marketing
-fraud / compliance
+securities fraud
+compliance testing
 
 # applied science
 traffic engineering
@@ -110,6 +111,9 @@ construction
 mechanics
 bus drivers
 electricians
+mechanical service
+bus service
+electrical service
 
 # ???
 Civil War reenactment
