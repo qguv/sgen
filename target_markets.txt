@@ -7,6 +7,8 @@
 cats
 dogs
 fish
+pigs
+monkeys
 birds
 snakes
 
@@ -87,6 +89,8 @@ dummies
 # family
 your drunk uncle
 your absent father
+your hardworking cousin
+your busy mother-in-law
 
 # old people
 the elderly
