@@ -14,3 +14,4 @@ a web scale
 a blazing fast
 a component-based
 a painless
+a decentralized

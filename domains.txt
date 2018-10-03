@@ -36,6 +36,9 @@ college football
 basketball
 tennis
 hockey
+cricket
+badminton
+Kabaddi
 
 # legal, diplomacy, bureaucracy, business
 maritime law

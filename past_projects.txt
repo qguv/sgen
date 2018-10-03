@@ -58,3 +58,7 @@ RealPlayer
 SpaceX
 Juicero
 Chegg
+Airbnb
+Stripe
+Bitcoin
+Evernote
