@@ -7,6 +7,7 @@ education reform
 environmental policy reform
 tort reform
 economic reform
+tax reform
 
 # academia
 computational linguistics
@@ -14,6 +15,7 @@ literary criticism
 circuit analysis
 game theory
 trickle-down economics
+"modern" monetary theory
 
 # sociology & psychology
 third-wave feminism
@@ -30,7 +32,9 @@ baseball
 soccer
 football
 college football
-
+basketball
+tennis
+hockey
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -45,6 +49,7 @@ fixed-rate mortgages
 collective bargaining
 wage garnishment
 the municipal bond market
+copyright law
 
 # business
 project management
@@ -54,7 +59,8 @@ quality assurance
 training
 information technology
 marketing
-fraud / compliance
+securities fraud
+compliance testing
 
 # applied science
 traffic engineering
@@ -62,6 +68,7 @@ bioinformatics
 data analytics
 food microbiology
 cryogenics
+spaceflight
 
 # health & wellness
 clinical psychology
@@ -71,6 +78,8 @@ biopsy
 physical therapy
 relationship counseling
 pharmaceutical testing
+sexual wellbeing
+neurosurgery
 
 # art & metaphysics
 art history
@@ -89,6 +98,7 @@ tax evasion
 doomsday preparation
 predatory lending
 organ harvesting
+drug trafficking
 
 # computer & internet
 system administration
@@ -104,15 +114,18 @@ high performance computing
 programming
 server
 cryptocurrency
+javascript
+quantum computing
+computational genomics
 web development
 
 # blue-collar occupations
 lawn care
 landscaping
-mechanics
-bus drivers
-electricians
+construction
+mechanical service
+bus service
+electrical service
 
 # ???
 Civil War reenactment
-
