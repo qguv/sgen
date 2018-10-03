@@ -28,7 +28,6 @@ little-league football
 soccer
 football
 
-
 # legal, diplomacy, bureaucracy, business
 maritime law
 nuclear non-proliferation
@@ -51,7 +50,8 @@ quality assurance
 training
 information technology
 marketing
-fraud / compliance
+securities fraud
+compliance testing
 
 # applied science
 traffic engineering
@@ -96,9 +96,9 @@ web development
 # blue-collar occupations
 lawn care
 landscaping
-mechanics
-bus drivers
-electricians
+mechanical service
+bus service
+electrical service
 
 # ???
 Civil War reenactment
