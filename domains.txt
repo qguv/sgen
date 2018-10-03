@@ -6,6 +6,7 @@
 education reform
 environmental policy reform
 tort reform
+tax reform
 
 # academia
 computational linguistics
@@ -13,6 +14,7 @@ literary criticism
 circuit analysis
 game theory
 trickle-down economics
+"modern" monetary theory
 
 # sociology & psychology
 third-wave feminism
@@ -25,10 +27,13 @@ identity politics
 e-sports
 tee-ball
 little-league football
+baseball
 soccer
 football
 jai alai
-
+basketball
+tennis
+hockey
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -43,6 +48,7 @@ fixed-rate mortgages
 collective bargaining
 wage garnishment
 the municipal bond market
+copyright law
 
 # business
 project management
@@ -59,6 +65,7 @@ traffic engineering
 bioinformatics
 food microbiology
 cryogenics
+spaceflight
 
 # health & wellness
 clinical psychology
@@ -68,6 +75,8 @@ physical therapy
 relationship counseling
 pharmaceutical testing
 laser eye surgery
+sexual wellbeing
+neurosurgery
 
 # art & metaphysics
 art history
@@ -87,6 +96,7 @@ doomsday preparation
 predatory lending
 organ harvesting
 human trafficking
+drug trafficking
 
 # computer & internet
 system administration
@@ -94,19 +104,25 @@ cat pictures
 information security
 microblogging
 cryptocurrency
+javascript
+quantum computing
+computational genomics
 web development
 team collaboration tools
 
 # blue-collar occupations
 lawn care
 landscaping
+
+construction
 mechanics
 bus drivers
 electricians
+mechanical service
+bus service
+electrical service
 carpentry
 
 # ???
 Civil War reenactment
 Goetia
-
-

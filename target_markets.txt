@@ -6,6 +6,7 @@
 # animals
 cats
 dogs
+fish
 pigs
 monkeys
 birds
@@ -20,12 +21,17 @@ developers
 startups
 mailing list bullies
 Bitcoin enthusiasts
+crypto enthusiasts
 IRC bots
 startup evangelists
 
 # hyper-specific age groups
 tweens
 today's youth
+gen x
+gen y
+millennials
+baby boomers
 
 # "normal" folk
 upper-middle class families
@@ -42,6 +48,7 @@ penpals
 the enlightened
 the bourgeoisie
 nouveau-riche
+the 1%
 
 # the silly lower class
 the unemployed
@@ -90,6 +97,7 @@ the elderly
 people who still use hotmail
 people who still use AOL
 people who still pay with checks
+people who still use ISP provided email
 kids who won't stay off my lawn
 people who don't understand the internet
 hunt-and-peck typists
