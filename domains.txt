@@ -25,6 +25,11 @@ identity politics
 e-sports
 tee-ball
 little-league football
+football
+baseball
+soccer
+basketball
+tennis
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -80,6 +85,7 @@ cat pictures
 information security
 microblogging
 cryptocurrency
+javascript
 
 # blue-collar occupations
 lawn care
