@@ -54,3 +54,7 @@ Telegram
 Skype
 Dropbox
 Grammarly
+RealPlayer
+SpaceX
+Juicero
+Chegg

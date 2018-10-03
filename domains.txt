@@ -31,6 +31,7 @@ little-league football
 baseball
 soccer
 football
+jai alai
 college football
 basketball
 tennis
@@ -78,6 +79,7 @@ biopsy
 physical therapy
 relationship counseling
 pharmaceutical testing
+laser eye surgery
 sexual wellbeing
 neurosurgery
 
@@ -98,6 +100,7 @@ tax evasion
 doomsday preparation
 predatory lending
 organ harvesting
+human trafficking
 drug trafficking
 
 # computer & internet
@@ -118,6 +121,7 @@ javascript
 quantum computing
 computational genomics
 web development
+team collaboration tools
 
 # blue-collar occupations
 lawn care
@@ -126,6 +130,8 @@ construction
 mechanical service
 bus service
 electrical service
+carpentry
 
 # ???
 Civil War reenactment
+Goetia
