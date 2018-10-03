@@ -25,6 +25,9 @@ identity politics
 e-sports
 tee-ball
 little-league football
+soccer
+football
+
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -88,10 +91,14 @@ cat pictures
 information security
 microblogging
 cryptocurrency
+web development
 
 # blue-collar occupations
 lawn care
 landscaping
+mechanics
+bus drivers
+electricians
 
 # ???
 Civil War reenactment
