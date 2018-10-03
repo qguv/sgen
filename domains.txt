@@ -27,10 +27,11 @@ identity politics
 e-sports
 tee-ball
 little-league football
-basketball
-hockey
+baseball
 soccer
-football
+basketball
+tennis
+hockey
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -100,6 +101,7 @@ cat pictures
 information security
 microblogging
 cryptocurrency
+javascript
 quantum computing
 computational genomics
 web development
@@ -117,4 +119,3 @@ electrical service
 
 # ???
 Civil War reenactment
-

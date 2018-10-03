@@ -6,6 +6,7 @@
 # animals
 cats
 dogs
+fish
 pigs
 monkeys
 birds
@@ -27,6 +28,10 @@ startup evangelists
 # hyper-specific age groups
 tweens
 today's youth
+gen x
+gen y
+millennials
+baby boomers
 
 # "normal" folk
 upper-middle class families
@@ -43,6 +48,7 @@ penpals
 the enlightened
 the bourgeoisie
 nouveau-riche
+the 1%
 
 # the silly lower class
 the unemployed
