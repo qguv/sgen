@@ -21,6 +21,7 @@ developers
 startups
 mailing list bullies
 Bitcoin enthusiasts
+crypto enthusiasts
 IRC bots
 startup evangelists
 
@@ -59,7 +60,7 @@ athletes
 e-sports spectators
 e-sports "athletes"
 
-# unlikeable
+# ideological groups
 self-righteous vegans
 crossfit junkies
 the cast of Jersey Shore
@@ -78,10 +79,9 @@ communists
 people who just read "The Communist Manifesto" for the first time
 people who just read Nietzsche for the first time
 self-proclaimed anarcho-capitalists
-preteen anarchists
+anarchists
 capitalists
 hipsters
-
 
 # format puns
 dummies
@@ -92,11 +92,12 @@ your absent father
 your hardworking cousin
 your busy mother-in-law
 
-# old people
+# old folks
 the elderly
 people who still use hotmail
 people who still use AOL
 people who still pay with checks
+people who still use ISP provided email
 kids who won't stay off my lawn
 people who don't understand the internet
 hunt-and-peck typists
