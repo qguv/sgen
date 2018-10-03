@@ -39,3 +39,7 @@ Runescape
 Uber
 Rails
 Dogecoin
+Facebook
+Tesla
+Yelp
+Slack
