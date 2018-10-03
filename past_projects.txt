@@ -43,3 +43,9 @@ Facebook
 Tesla
 Yelp
 Slack
+Bumble
+Paypal
+Telegram
+Skype
+Dropbox
+Grammarly

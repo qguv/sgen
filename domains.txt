@@ -29,6 +29,8 @@ tee-ball
 little-league football
 basketball
 hockey
+soccer
+football
 
 # legal, diplomacy, bureaucracy, business
 maritime law
@@ -46,6 +48,14 @@ the municipal bond market
 copyright law
 
 # business
+project management
+operations management
+workforce management
+quality assurance
+training
+information technology
+marketing
+fraud / compliance
 
 # applied science
 traffic engineering
@@ -91,11 +101,15 @@ microblogging
 cryptocurrency
 quantum computing
 computational genomics
+web development
 
 # blue-collar occupations
 lawn care
 landscaping
 construction
+mechanics
+bus drivers
+electricians
 
 # ???
 Civil War reenactment

@@ -6,6 +6,10 @@
 # animals
 cats
 dogs
+pigs
+monkeys
+birds
+snakes
 
 # nerds
 the technically competent
@@ -70,6 +74,9 @@ people who just read "The Communist Manifesto" for the first time
 people who just read Nietzsche for the first time
 self-proclaimed anarcho-capitalists
 preteen anarchists
+capitalists
+hipsters
+
 
 # format puns
 dummies
@@ -77,6 +84,8 @@ dummies
 # family
 your drunk uncle
 your absent father
+your hardworking cousin
+your busy mother-in-law
 
 # old people
 the elderly
