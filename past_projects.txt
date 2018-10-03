@@ -44,3 +44,11 @@ ICQ
 Winamp
 Limewire
 AOL
+Bumble
+Paypal
+Facebook
+Telegram
+Slack
+Skype
+Dropbox
+Grammarly

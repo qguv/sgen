@@ -46,6 +46,14 @@ wage garnishment
 the municipal bond market
 
 # business
+project management
+operations management
+workforce management
+quality assurance
+training
+information technology
+marketing
+fraud / compliance
 
 # applied science
 traffic engineering
@@ -86,10 +94,14 @@ information security
 microblogging
 cryptocurrency
 javascript
+web development
 
 # blue-collar occupations
 lawn care
 landscaping
+mechanics
+bus drivers
+electricians
 
 # ???
 Civil War reenactment

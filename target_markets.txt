@@ -7,6 +7,8 @@
 cats
 dogs
 fish
+birds
+snakes
 
 # nerds
 the technically competent
@@ -75,6 +77,9 @@ people who just read "The Communist Manifesto" for the first time
 people who just read Nietzsche for the first time
 self-proclaimed anarcho-capitalists
 preteen anarchists
+capitalists
+hipsters
+
 
 # format puns
 dummies
