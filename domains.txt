@@ -6,6 +6,7 @@
 education reform
 environmental policy reform
 tort reform
+economic reform
 tax reform
 
 # academia
@@ -31,6 +32,7 @@ baseball
 soccer
 football
 jai alai
+college football
 basketball
 tennis
 hockey
@@ -58,11 +60,13 @@ quality assurance
 training
 information technology
 marketing
-fraud / compliance
+securities fraud
+compliance testing
 
 # applied science
 traffic engineering
 bioinformatics
+data analytics
 food microbiology
 cryogenics
 spaceflight
@@ -71,6 +75,7 @@ spaceflight
 clinical psychology
 exploratory surgery
 oral surgery
+biopsy 
 physical therapy
 relationship counseling
 pharmaceutical testing
@@ -103,6 +108,14 @@ system administration
 cat pictures
 information security
 microblogging
+network administration
+cluster computing
+subnetting
+ethernet
+infiniband
+high performance computing
+programming
+server
 cryptocurrency
 javascript
 quantum computing
@@ -113,11 +126,7 @@ team collaboration tools
 # blue-collar occupations
 lawn care
 landscaping
-
 construction
-mechanics
-bus drivers
-electricians
 mechanical service
 bus service
 electrical service
